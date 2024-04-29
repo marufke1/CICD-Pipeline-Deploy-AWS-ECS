@@ -15,7 +15,7 @@ pipeline {
   stages {
     stage('Fetch code'){
       steps {
-        git branch: 'docker', url: 'https://github.com/devopshydclub/vprofile-project.git'
+        git branch: 'master', url: 'https://github.com/marufke1/CICD-Pipeline-Deploy-AWS-ECS.git'
       }
     }
 
