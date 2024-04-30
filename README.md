@@ -2,7 +2,7 @@
 
 **Project Name: DockerStreamline**
 
-**Description:** DockerStreamline is an end-to-end CI/CD pipeline designed to streamline the development, testing, and deployment of containerized applica-tions. Leveraging the power of Git, Jenkins, Maven, Unit testing, Checkstylye analysis, SonarQube, Nexus, AWS ECR, and ECS, DockerStreamline automates the entire software delivery pro-cess, from code commit to production deployment.
+**Description:** DockerStreamline is an end-to-end CI/CD pipeline designed to streamline the development, testing, and deployment of containerized applica-tions. Leveraging the power of Git, Jenkins, Maven, Unit testing, Checkstylye analysis, SonarQube, Quality gate, Nexus, AWS ECR, and ECS, DockerStreamline automates the entire software delivery pro-cess, from code commit to production deployment.
 
 **Key Features of this project:**
 
